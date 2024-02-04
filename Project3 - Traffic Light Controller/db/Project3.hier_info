@@ -1,0 +1,14 @@
+|Project3
+clk => state~7.DATAIN
+rst_n => state~9.DATAIN
+x1 => always0.IN0
+x1 => always0.IN0
+x1 => always0.IN0
+x1 => always0.IN0
+x2 => always0.IN1
+x2 => always0.IN1
+x2 => always0.IN1
+x2 => always0.IN1
+z << <GND>
+
+
